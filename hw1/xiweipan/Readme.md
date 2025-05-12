@@ -31,7 +31,7 @@ which is equivalent to
 
 $l K \leq \epsilon \text{OPT}$.
 
-Since the optimal solution must at least match the best item that fits into the knapsack, we have $\text{OPT} \ge v^*$, where $v^* = \max \{ v_i \mid w_i \le W \}$. We can simply assume for all $i$, $w_i \le W$ (otherwise, we can remove it from the problem).
+Since the optimal solution must at least match the best item that fits into the knapsack, we have $\text{OPT} \ge v^* $, where $v^* = \max \{ v_i \mid w_i \le W \}$. We can simply assume for all $i$, $w_i \le W$ (otherwise, we can remove it from the problem).
 
 Therefore, we have the sufficient condition
 
