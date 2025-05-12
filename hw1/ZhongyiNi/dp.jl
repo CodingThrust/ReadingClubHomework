@@ -63,8 +63,3 @@ function _rescale_dp(kp::Knapsack,K)
     w,set,_ = dp(kp2)
     return w,set,sum(i -> kp.v[i], set)
 end
-
-function rescale_dp(kp::Knapsack,ϵ)
-    
-
-end
