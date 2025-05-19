@@ -1,0 +1,1 @@
+# x0 + sum ki vi where Avi = 0 and Ax0 = b , use https://en.wikipedia.org/wiki/Smith_normal_form to solve
